@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/Disk__/Dev/tinyLog/build/linux-debug",
+  "command": "/usr/bin/c++  -I/mnt/Disk__/Dev/tinyLog/. -g -std=gnu++20 -o CMakeFiles/main.dir/main.cpp.o -c /mnt/Disk__/Dev/tinyLog/main.cpp",
+  "file": "/mnt/Disk__/Dev/tinyLog/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
